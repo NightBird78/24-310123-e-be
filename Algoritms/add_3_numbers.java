@@ -1,5 +1,3 @@
-
-
 // я сделал 2 в 1, прокоментировал каждый шаг, как полагаю и требуется
 public class add_3_numbers {
     public static void main(String[] args) {
