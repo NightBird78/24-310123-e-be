@@ -5,7 +5,7 @@ public class add_3_numbers {
     public static void main(String[] args) {
         int sum = add(2, 3, 5); // задаем числа -> получаем число
 
-        System.out.println(sum); // виводин в консоль
+        System.out.println(sum); // выводин в консоль
     }
 
     // функция складывания 3-ёх чисел
