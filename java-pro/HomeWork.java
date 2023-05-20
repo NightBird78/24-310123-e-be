@@ -1,4 +1,6 @@
-import java.util.ArrayList;
+
+
+import java.util.ArrayList; // я использовал ArrayList ибо так было удобнее
 import java.util.Arrays;
 import java.util.List;
 
