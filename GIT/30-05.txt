@@ -1,0 +1,23 @@
+1)
+перейти в нужний путь
+создать репозиторий
+git init
+добавить файлы
+git add ./<filename>
+git commit -m "commit text"
+
+создать глобальный репозиторий на github
+git remote add origin <url>
+переименовываем при надобности
+git branch -m main
+пушим конкретную ветку или последнюю пушиную если без ключей
+git push -u origin main
+
+2)
+git restore (без ключей)
+
+3)
+git restore --staged <filename>/.
+
+4)
+git reset HEAD~<n>
